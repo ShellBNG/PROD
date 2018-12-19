@@ -8,7 +8,7 @@
 	
 	 <target name="run" depends="compile">
 	 <echo> Running Java program! </echo>
-    <java classname="HelloWorld" fork="true">
+    <java classname="Hello World" fork="true">
 	
  </java>
 	</target>
